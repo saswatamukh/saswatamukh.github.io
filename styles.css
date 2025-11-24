@@ -65,7 +65,7 @@ body {
 }
 
 .contact-info h2 {
-    font-size: 20px;
+    font-size: 24px;
     margin-bottom: 20px;
     padding-bottom: 10px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.3);
@@ -121,7 +121,7 @@ body {
     color: #1d4a58;
     text-decoration: none;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 18px;
     padding: 8px 16px;
     border-radius: 4px;
     transition: all 0.3s;
@@ -184,7 +184,7 @@ section a:hover {
 }
 
 .publication h3 {
-    font-family: Georgia, serif;
+    font-family: 'Gentium Basic', Georgia, serif;
     font-size: 18px;
     color: #000000;
     font-weight: 550;
@@ -205,7 +205,7 @@ section a:hover {
 }
 
 .publication .authors {
-    font-size: 15px;
+    font-size: 16px;
     color: #000000;
     margin-bottom: 5px;
     padding-left: 15px;
@@ -223,7 +223,7 @@ section a:hover {
 .publication .venue {
     font-style: normal;
     color: #000000;
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom: 10px;
     padding-left: 15px;
     position: relative;
@@ -264,7 +264,7 @@ section a:hover {
 }
 
 .talk h3 {
-    font-family: Georgia, serif;
+    font-family: 'Gentium Basic', Georgia, serif;
     font-size: 18px;
     color: #1d4a58;
     font-weight: 550;
@@ -273,7 +273,7 @@ section a:hover {
 
 .talk .venue {
     color: #000000;
-    font-size: 15px;
+    font-size: 16px;
     margin-bottom: 5px;
     font-style: normal;
     padding-left: 15px;
@@ -290,7 +290,7 @@ section a:hover {
 
 .talk .date {
     color: #000000;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     padding-left: 15px;
     position: relative;
@@ -326,7 +326,7 @@ section a:hover {
 }
 
 .course h3 {
-    font-family: Georgia, serif;
+    font-family: 'Gentium Basic', Georgia, serif;
     font-size: 18px;
     color: #1d4a58;
     font-weight: 550;
@@ -335,7 +335,7 @@ section a:hover {
 
 .course .semester {
     color: #000000;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     margin-bottom: 10px;
     padding-left: 15px;
@@ -352,7 +352,7 @@ section a:hover {
 
 .course p {
     color: #333;
-    font-size: 15px;
+    font-size: 16px;
     padding-left: 15px;
     position: relative;
 }
