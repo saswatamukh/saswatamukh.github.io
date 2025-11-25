@@ -205,7 +205,7 @@ section a:hover {
 }
 
 .publication .authors {
-    font-size: 17px;
+    font-size: 18px;
     color: #000000;
     margin-bottom: 5px;
     padding-left: 15px;
@@ -216,14 +216,14 @@ section a:hover {
     content: "◦";
     position: absolute;
     left: 0;
-    font-size: 17px;
+    font-size: 18px;
     color: #666;
 }
 
 .publication .venue {
     font-style: normal;
     color: #000000;
-    font-size: 17px;
+    font-size: 18px;
     margin-bottom: 10px;
     padding-left: 15px;
     position: relative;
