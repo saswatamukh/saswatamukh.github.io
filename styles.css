@@ -100,7 +100,7 @@ body {
 
 /* Main Content */
 .main-content {
-    margin-left: 200px;
+    margin-left: 320px;
     flex: 1;
     background-color: white;
     padding: 60px 80px 60px 80px;
@@ -166,7 +166,7 @@ section a:hover {
 .publication {
     margin-bottom: 25px;
     padding-bottom: 0;
-    padding-left: 20px;
+    padding-left: 15px;
     position: relative;
 }
 
